@@ -1,0 +1,5 @@
+{"id":"1e0a295e-044d-44be-85bf-75a9c79db143","name":"M1Z01","day":"5","hour":"10","duration":"2"}
+{"id":"0633f181-48c1-4451-8f3e-1a9defd0c9bf","name":"M1Z01","day":"5","hour":"12","duration":"1"}
+{"id":"e16b3c3d-77e5-4916-939e-1b7600d9d295","name":"M1Z01","day":"5","hour":"13","duration":"1"}
+{"id":"27da458b-f656-4527-8291-27b152f8fe05","name":"m1z2","day":"1","hour":"12","duration":"2"}
+{"id":"6aef21ce-bfe6-4fed-8c74-91adf4bbb956","name":"M1Z01","day":"2","hour":"9","duration":"2"}
